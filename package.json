@@ -1,0 +1,22 @@
+{
+  "name": "my-test-loader",
+  "version": "1.0.1",
+  "description": "loader test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxwhope/my-loader.git"
+  },
+  "keywords": [
+    "loader"
+  ],
+  "author": "zxw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangxwhope/my-loader/issues"
+  },
+  "homepage": "https://github.com/zhangxwhope/my-loader#readme"
+}
